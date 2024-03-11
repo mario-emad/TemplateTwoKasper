@@ -1,2 +1,2 @@
 # TemplateTwoKasper
-Template Two Kasper.
+Template Two Kasper built using HTML and CSS.
